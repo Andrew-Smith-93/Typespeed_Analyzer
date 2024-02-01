@@ -69,7 +69,7 @@ testId|correct|wpm|totalTyped|testDuration|testDurationReal|quoteLength|errors|e
 - `textLength`: Length of the text.
 - `date`: Date timestamp.
 
-
 ## License
 
-This MonkeyType WPM Calculator is open-source and distributed under the [MIT License](License.txt).
+This project is licensed under the [LICENSE NAME](LICENSE) - see the [LICENSE](LICENSE) file for details.
+
